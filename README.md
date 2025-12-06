@@ -1,4 +1,4 @@
-# Advent of Code 2025
+# 🎄 Advent of Code 2025 🎄
 
 My solutions for [Advent of Code 2025](https://adventofcode.com/2025) - a series of daily programming challenges throughout December.
 
@@ -8,7 +8,7 @@ Each day's challenge is organized in its own folder (e.g., `01/`, `02/`, etc.) c
 - `input.txt` - Puzzle input
 - `test.txt` - Test input (when applicable)
 
-## Setup
+## 🛠️ Setup 🛠️
 
 To install dependencies:
 
@@ -16,7 +16,7 @@ To install dependencies:
 bun install
 ```
 
-## Running Solutions
+## ⚡️ Running Solutions ⚡️
 
 To run a specific day's solution, navigate to that day's folder and run the file:
 
