@@ -1,6 +1,6 @@
-# 🎄 Advent of Code 2025 🎄
+# 🎄 Advent of Code 2015 🎄
 
-My solutions for [Advent of Code 2025](https://adventofcode.com/2025) - a series of daily programming challenges throughout December.
+My solutions for [Advent of Code 2015](https://adventofcode.com/2015) - a series of daily programming challenges throughout December.
 
 Each day's challenge is organized in its own folder (e.g., `01/`, `02/`, etc.) containing:
 - `a.ts` - Solution for part A
