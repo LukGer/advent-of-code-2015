@@ -1,4 +1,14 @@
-# advent-of-code-2025
+# Advent of Code 2025
+
+My solutions for [Advent of Code 2025](https://adventofcode.com/2025) - a series of daily programming challenges throughout December.
+
+Each day's challenge is organized in its own folder (e.g., `01/`, `02/`, etc.) containing:
+- `a.ts` - Solution for part A
+- `b.ts` - Solution for part B
+- `input.txt` - Puzzle input
+- `test.txt` - Test input (when applicable)
+
+## Setup
 
 To install dependencies:
 
@@ -6,10 +16,14 @@ To install dependencies:
 bun install
 ```
 
-To run:
+## Running Solutions
+
+To run a specific day's solution, navigate to that day's folder and run the file:
 
 ```bash
-bun run index.ts
+cd 01
+bun run a.ts  # for part A
+bun run b.ts  # for part B
 ```
 
-This project was created using `bun init` in bun v1.3.3. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+This project uses [Bun](https://bun.com) as the JavaScript runtime.
